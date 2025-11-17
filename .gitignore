@@ -1,0 +1,15 @@
+# This is a showcase repo - no real code here
+# Just documentation and conceptual examples
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Temp
+*.tmp
+*~
