@@ -238,3 +238,65 @@ Proprietary software owned by **MbInteligen**.
 Made with 🚀 by [MbInteligen](https://github.com/MbInteligen)
 
 </div>
+
+---
+
+## 📊 Visual Diagrams
+
+Explore detailed system architecture diagrams:
+
+- **[📐 System Architecture Diagrams](docs/diagrams/SYSTEM_ARCHITECTURE.md)** - Complete visual overview
+  - High-level system architecture
+  - Request flow sequences
+  - Conversion tracking flow
+  - Lead form webhook flow
+  - Budget optimization flow
+  - CI/CD pipeline
+  - Data model (ERD)
+  - Deployment architecture
+
+All diagrams use **Mermaid.js** and render natively on GitHub!
+
+---
+
+## 💻 Code Examples
+
+Production-ready code examples in all three languages:
+
+### 🦀 Rust Examples
+- **[Campaign Aggregator](examples/rust/campaign_aggregator.rs)** - Parallel API aggregation with Axum + Tokio
+  - Unified data models
+  - Concurrent requests with `tokio::join!`
+  - Error handling patterns
+  - Unit tests
+
+### 🐍 Python Examples  
+- **[Conversion Tracker](examples/python/conversion_tracker.py)** - Google Ads Enhanced Conversions
+  - FastAPI route handlers
+  - Pydantic validation
+  - PII hashing (SHA-256)
+  - Google Ads API v22 integration
+
+### 📘 TypeScript Examples
+- **[Campaign Client](examples/typescript/campaign-client.ts)** - React hooks + API client
+  - Custom `useCampaigns()` hook
+  - Type-safe API client
+  - Data filtering and aggregation
+  - Component examples
+
+**[📖 View All Examples](examples/README.md)**
+
+---
+
+## 🔗 Quick Links
+
+| Resource | Description |
+|----------|-------------|
+| [🏗️ Architecture](ARCHITECTURE.md) | Detailed technical architecture |
+| [📊 Diagrams](docs/diagrams/SYSTEM_ARCHITECTURE.md) | Visual system overview (Mermaid) |
+| [💻 Code Examples](examples/) | Production-ready code samples |
+| [🔒 Private Repo](https://github.com/MbInteligen/ibvi-ads-platform) | Full source code (requires access) |
+| [📚 Documentation](https://github.com/MbInteligen/ibvi-ads-platform/tree/main/docs) | Complete docs |
+
+---
+
