@@ -3,7 +3,7 @@
 > **Unified Google Ads & Meta Ads Campaign Management Platform**  
 > Real-time optimization, automated conversions tracking, and intelligent budget allocation.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-yellow.svg)](https://opensource.org/licenses/Proprietary)
 [![Rust](https://img.shields.io/badge/Rust-1.70%2B-orange.svg)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0%2B-blue.svg)](https://www.typescriptlang.org/)
@@ -135,7 +135,7 @@ POST /v1/conversions/google
 
 ```bash
 # Clone the repository
-git clone https://github.com/MbInteligen/ibvi-ads-platform.git
+git clone https://github.com/IBVI/ibvi-ads-platform.git
 cd ibvi-ads-platform
 
 # Start Rust Core API
@@ -176,7 +176,7 @@ ibvi-ads-platform/
 This is a **private repository** for internal development.
 
 **Contact**: @limaronaldo  
-**Organization**: [MbInteligen](https://github.com/MbInteligen)
+**Organization**: [IBVI](https://github.com/IBVI)
 
 ### Development Workflow
 1. Clone repo
@@ -227,15 +227,15 @@ Contributors: 3 teams
 
 ## 📄 License
 
-Proprietary software owned by **MbInteligen**.
+Proprietary software owned by **IBVI**.
 
 ---
 
 <div align="center">
 
-**[🔗 Private Repository](https://github.com/MbInteligen/ibvi-ads-platform)**
+**[🔗 Private Repository](https://github.com/IBVI/ibvi-ads-platform)**
 
-Made with 🚀 by [MbInteligen](https://github.com/MbInteligen)
+Made with 🚀 by [IBVI](https://github.com/IBVI)
 
 </div>
 
@@ -295,8 +295,8 @@ Production-ready code examples in all three languages:
 | [🏗️ Architecture](ARCHITECTURE.md) | Detailed technical architecture |
 | [📊 Diagrams](docs/diagrams/SYSTEM_ARCHITECTURE.md) | Visual system overview (Mermaid) |
 | [💻 Code Examples](examples/) | Production-ready code samples |
-| [🔒 Private Repo](https://github.com/MbInteligen/ibvi-ads-platform) | Full source code (requires access) |
-| [📚 Documentation](https://github.com/MbInteligen/ibvi-ads-platform/tree/main/docs) | Complete docs |
+| [🔒 Private Repo](https://github.com/IBVI/ibvi-ads-platform) | Full source code (requires access) |
+| [📚 Documentation](https://github.com/IBVI/ibvi-ads-platform/tree/main/docs) | Complete docs |
 
 ---
 

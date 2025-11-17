@@ -1,16 +1,26 @@
-MIT License
+PROPRIETARY LICENSE
 
-Copyright (c) 2025 MbInteligen
+Copyright (c) 2025 IBVI (MbInteligen). All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software and associated documentation files (the "Software") are the 
+exclusive property of IBVI and are protected by copyright law.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+RESTRICTIONS:
+
+1. The Software is provided for VIEWING and REFERENCE purposes only.
+2. You MAY NOT use, copy, modify, merge, publish, distribute, sublicense, 
+   and/or sell copies of the Software.
+3. You MAY NOT use the Software for commercial purposes.
+4. You MAY NOT reverse engineer, decompile, or disassemble the Software.
+5. You MAY NOT remove or alter any copyright notices from the Software.
+
+PERMITTED USES:
+
+1. Viewing the source code for educational or reference purposes.
+2. Reading the documentation and examples.
+3. Learning from the architecture and design patterns shown.
+
+DISCLAIMER:
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -19,3 +29,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+For licensing inquiries or permission requests, contact:
+- Organization: IBVI (MbInteligen)
+- Email: contact@ibvi.com.br
+- GitHub: https://github.com/MbInteligen
